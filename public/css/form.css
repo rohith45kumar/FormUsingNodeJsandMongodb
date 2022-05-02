@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+box-shadow:0 4px 6px 0 rgba(0, 0, 0, 0.78),0 4px 6px 0 rgba(0, 0, 0, 0.78);
+max-width:50%;
+position: relative;
+top: 40px;
+padding: 0px;
+background-color:whitesmoke;
+opacity: 0.9;
+}
+.lab{
+    font-size: 20px;
+    font-weight: 400;
+}
+#check{
+    color:red;
+}
+h1
+{
+    background-color:darkslategrey;
+    color:darkkhaki;
+    width: 100%;
+    padding: 5px;
+}
+#myform
+{
+    padding:10px;
+}

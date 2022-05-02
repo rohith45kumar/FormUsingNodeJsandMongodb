@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.card{
+    box-shadow:0 4px 6px 0 rgba(0, 0, 0, 0.59),0 4px 6px 0 rgba(0, 0, 0, 0.59);
+}
+img{
+    border-radius: 50%;
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+    max-width: 260px;
+}
+h1{
+    font-family:'Times New Roman', Times, serif;
+}
+h2,h4,h6{
+    font-family:'Times New Roman', Times, serif;
+}
+.card-body
+{
+    padding: 80px 30px;
+}
